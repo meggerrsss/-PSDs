@@ -2,23 +2,23 @@ panels
 <blockquote><p><b><i>The Flash #048 &mdash;&nbsp;</i></b>Public Enemy</p></blockquote>
 
 2 shows - 1 ep each + description
-<p><div style="text-align:center"><small><b><i>Prison Break 2x17  |  Other Show AxBC<br></i></b><i>Wentworth Miller's Face</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Young Justice 2x20  |  The Flash 3x03<br></i></b><i>&#8594; Speed Team Ups</i></small></div></p>
 
 show 1 ep + description
-<p><div style="text-align:center"><small><b><i>Justice League Unlimited 5x10 - Far From Home<br></i></b><i>Green Arrow</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Arrow 5x03 &ndash; A Matter of Trust<br></i></b><i>&#8594; Team Arrow 5.0</i></small></div></p>
 
 show 1 ep + description (wliia)
-<p><div style="text-align:center"><small><b><i>Whose Line Is It Anyway? 12x12 - Lyndie Greenwood<br></i></b><i>Scenes From a Hat</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Whose Line Is It Anyway? 12x12 - Lyndie Greenwood<br></i></b><i>&#8594; Scenes From a Hat</i></small></div></p>
 
 one gif per movie
-<p><div style="text-align:center"><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gif per movie</a><br></i></b><i>Thor (2011)</i></small></div></p>
+<p><div style="text-align:center"><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gif per movie</a><br></i></b><i>&#8594; Thor (2011)</i></small></div></p>
 
 for multiep of one show
-<p><div style="text-align:center"><small><b><i>The Flash<br></i></b><i>Leonard Snart Rewatch</i></small></div></p>
-<p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow </i></b> – 1x04 / 1x05 / 2x01 </small></div></p>
+<p><div style="text-align:center"><small><b><i>DCtv: Legends of Superflarrow<br></i></b><i>&#8594; Siblings</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow </i></b> &ndash; 1x04 / 1x05 / 2x01 </small></div></p>
 
 show 1ep + quote
-<p><div style="text-align:center"><small><b><i>Arrow 5x02 &ndash; The Recruits <br>&#8594; </i></b><i>"How's the leg?"</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow 2x02 &ndash; The Justice Society of America <br>&#8594; </i></b><i>"Quite the badass."</i></small></div></p>
 
 imalog
 <small><p>a lot of gifs for <a class="tumblelog" spellcheck="false">@dctvcountdown</a>? 27/<a href="http://calmandcalculating.tumblr.com/tagged/imalog">27</a><br>
@@ -26,11 +26,11 @@ imalog
 &#8594; <b>legends of tomorrow</b> 5/<a href="http://calmandcalculating.tumblr.com/tagged/imaloglegends">5</a>: the team<br></p></small>
 
 alphabet
-<small><p>legends of superflarrow alphabet 4/<a href="http://calmandcalculating.tumblr.com/tagged/alphabet">26</a><br>
-&#8594;<b> D </b>is for<b> danvers </b><br></p></small>
+<small><p>legends of superflarrow alphabet 5/<a href="http://calmandcalculating.tumblr.com/tagged/alphabet">26</a><br>
+&#8594;<b> E </b>is for<b> eobard </b><br></p></small>
 
 promos
-<p><div style="text-align:center"><small><b><i>Mick's grief </i></b><i>in <a href="https://youtu.be/eLHj1-gE488?t=114">DC's Legends of Tomorrow | Out of Time Extended Trailer</a></i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Laura Kinney (X-23) </i></b><i>in <a href="https://www.youtube.com/watch?v=uLZrpEmNt6o">Logan</a></i></small></div></p>
 
 pararaph text
 <p style="text-align: center;"><small><b>Frequency AU:</b>&nbsp;Lisa Snart, in a world where her brother wasn't born, believed for 20 years that her father died a corrupt cop. One day after a strange thunderstorm, she discovers she can talk to him in 1996 via old ham radio. Her attempts to save his life through time trigger the "butterfly effect", changing the present in unforeseen ways. To fix the damage, she must work with her father across time to solve a decades-old murder case.</small></p>
