@@ -2,23 +2,27 @@ panels
 <blockquote><p><b><i>The Flash #048 &mdash;&nbsp;</i></b>Public Enemy</p></blockquote>
 
 2 shows - 1 ep each + description
-<p><div style="text-align:center"><small><b><i>Young Justice 2x20  |  The Flash 3x03<br></i></b><i>&#8594; Speed Team Ups</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Arrow 4x15  |  DC's Legends of Tomorrow 2x03<br></i></b><i>&#8594; Vixens</i></small></div></p>
+
+1 show 2 eps + description
+<p><div style="text-align:center"><small><b><i>NCIS Los Angeles ; 4x10 | 8x06<br></i></b><i>&#8594; Nell Jones & Eric Beale</i></small></div></p>
 
 show 1 ep + description
-<p><div style="text-align:center"><small><b><i>Arrow 5x03 &ndash; A Matter of Trust<br></i></b><i>&#8594; Team Arrow 5.0</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Arrow 5x05 &ndash; Human Target<br></i></b><i>&#8594;  "Fastest Man Alive"</i></small></div></p>
 
 show 1 ep + description (wliia)
 <p><div style="text-align:center"><small><b><i>Whose Line Is It Anyway? 12x12 - Lyndie Greenwood<br></i></b><i>&#8594; Scenes From a Hat</i></small></div></p>
 
 one gif per movie
-<p><div style="text-align:center"><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gif per movie</a><br></i></b><i>&#8594; Thor (2011)</i></small></div></p>
+<p><div style="text-align:center"><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gifset per movie</a><br></i></b><i>&#8594; Red Riding Hood (2011)</i></small></div></p>
+<p><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gifset per movie</a><br></i></b><i>&#8594; Superman/Batman: Apocalypse (2010) [<a href="http://calmandcalculating.tumblr.com/search/superman%2Fbatman%3A+apocalypse">1 / 2</a>]</i></small></p>
 
 for multiep of one show
 <p><div style="text-align:center"><small><b><i>DCtv: Legends of Superflarrow<br></i></b><i>&#8594; Siblings</i></small></div></p>
 <p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow </i></b> &ndash; 1x04 / 1x05 / 2x01 </small></div></p>
 
 show 1ep + quote
-<p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow 2x02 &ndash; The Justice Society of America <br>&#8594; </i></b><i>"Quite the badass."</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Arrow 5x05 &ndash; Human Target <br>&#8594; </i></b><i>"Grrr"</i></small></div></p>
 
 imalog
 <small><p>a lot of gifs for <a class="tumblelog" spellcheck="false">@dctvcountdown</a>? 27/<a href="http://calmandcalculating.tumblr.com/tagged/imalog">27</a><br>
@@ -26,11 +30,17 @@ imalog
 &#8594; <b>legends of tomorrow</b> 5/<a href="http://calmandcalculating.tumblr.com/tagged/imaloglegends">5</a>: the team<br></p></small>
 
 alphabet
-<small><p>legends of superflarrow alphabet 5/<a href="http://calmandcalculating.tumblr.com/tagged/alphabet">26</a><br>
-&#8594;<b> E </b>is for<b> eobard </b><br></p></small>
+<small><p>legends of superflarrow alphabet 7/<a href="http://calmandcalculating.tumblr.com/tagged/alphabet">26</a><br>
+&#8594;<b> G </b>is for jay<b> garrick </b><br></p></small>
 
 promos
 <p><div style="text-align:center"><small><b><i>Laura Kinney (X-23) </i></b><i>in <a href="https://www.youtube.com/watch?v=uLZrpEmNt6o">Logan</a></i></small></div></p>
 
 pararaph text
 <p style="text-align: center;"><small><b>Frequency AU:</b>&nbsp;Lisa Snart, in a world where her brother wasn't born, believed for 20 years that her father died a corrupt cop. One day after a strange thunderstorm, she discovers she can talk to him in 1996 via old ham radio. Her attempts to save his life through time trigger the "butterfly effect", changing the present in unforeseen ways. To fix the damage, she must work with her father across time to solve a decades-old murder case.</small></p>
+
+rogues rewatch
+<p><div style="text-align:center"><small><b><i>The Flash <a href="calmandcalculating.tumblr.com/tagged/rogues-rewatch">Rogues Rewatch</a></i></b><i> &ndash; Leonard Snart</i></small></div></p>
+
+team legends (teamlot)
+<p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow AxBC &ndash; Title <br></i></b><i>&#8594;  <a href = "calmandcalculating.tumblr.com/tagged/teamlot"><u>The Team</u> </a> </i></small></div></p>
