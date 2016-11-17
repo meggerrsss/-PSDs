@@ -2,19 +2,19 @@ panels
 <blockquote><p><b><i>The Flash #048 &mdash;&nbsp;</i></b>Public Enemy</p></blockquote>
 
 2 shows - 1 ep each + description
-<p><div style="text-align:center"><small><b><i>Arrow 4x15  |  DC's Legends of Tomorrow 2x03<br></i></b><i>&#8594; Vixens</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Frozen (2011)  |  Supergirl 2x06<br></i></b><i>&#8594; Vixens</i></small></div></p>
 
 1 show 2 eps + description
 <p><div style="text-align:center"><small><b><i>NCIS Los Angeles ; 4x10 | 8x06<br></i></b><i>&#8594; Nell Jones & Eric Beale</i></small></div></p>
 
 show 1 ep + description
-<p><div style="text-align:center"><small><b><i>Arrow 5x05 &ndash; Human Target<br></i></b><i>&#8594;  "Fastest Man Alive"</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>Lucifer 2x08 &ndash; Trip to Stabby Town<br></i></b><i>&#8594; Ella Lopez</i></small></div></p>
 
 show 1 ep + description (wliia)
 <p><div style="text-align:center"><small><b><i>Whose Line Is It Anyway? 12x12 - Lyndie Greenwood<br></i></b><i>&#8594; Scenes From a Hat</i></small></div></p>
 
 one gif per movie
-<p><div style="text-align:center"><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gifset per movie</a><br></i></b><i>&#8594; Red Riding Hood (2011)</i></small></div></p>
+<p><div style="text-align:center"><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gifset per movie</a><br></i></b><i>&#8594; The Girl with the Dragon Tattoo (2011)</i></small></div></p>
 <p><small><b><i><a href="calmandcalculating.tumblr.com/tagged/gpm">one gifset per movie</a><br></i></b><i>&#8594; Superman/Batman: Apocalypse (2010) [<a href="http://calmandcalculating.tumblr.com/search/superman%2Fbatman%3A+apocalypse">1 / 2</a>]</i></small></p>
 
 for multiep of one show
@@ -44,3 +44,7 @@ rogues rewatch
 
 team legends (teamlot)
 <p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow 2x05 &ndash; Compromised <br></i></b><i>&#8594;  <a href = "calmandcalculating.tumblr.com/tagged/teamlot"><u>The Team</u> </a> </i></small></div></p>
+
+gibbs rules
+<p><div style="text-align:center"><small><b><a href="calmandcalculating.tumblr.com/tagged/gibbsrule">Gibbs' Rule #8: </a></b></small></div></p>
+<blockquote><p><i><small>"Never take anything for granted."</small></i></p></blockquote>
