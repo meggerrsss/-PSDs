@@ -8,7 +8,7 @@ panels
 <p><div style="text-align:center"><small><b><i>NCIS Los Angeles ; 4x10 | 8x06<br></i></b><i>&#8594; Nell Jones & Eric Beale</i></small></div></p>
 
 show 1 ep + description
-<p><div style="text-align:center"><small><b><i>Lucifer 2x08 &ndash; Trip to Stabby Town<br></i></b><i>&#8594; Ella Lopez</i></small></div></p>
+<p><div style="text-align:center"><small><b><i>DC's Legends of Tomorrow 2x06 &ndash; Outlaw Country <br></i></b><i>&#8594; "If you’re trying to tell me to... tell you some sob story ‘bout how horrible and painful my life is, forget it."</i></small></div></p>
 
 show 1 ep + description (wliia)
 <p><div style="text-align:center"><small><b><i>Whose Line Is It Anyway? 12x12 - Lyndie Greenwood<br></i></b><i>&#8594; Scenes From a Hat</i></small></div></p>
